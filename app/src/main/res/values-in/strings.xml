@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">nama</string>
+    <string name="detail_description">Ini adalah deskripsi</string>
+    <string name="pass_error">Kata sandi harus lebih dari 8 karakter</string>
+    <string name="enter_pass">Masukkan kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="email_error">Email tidak valid</string>
+    <string name="submit">Kirim</string>
+    <string name="fill_first">Isi semua dulu</string>
+    <string name="enter_your_email">Masukkan alamat email</string>
+    <string name="doesn_t_have_an_account_yet">Belum punya akun?</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="enter_your_name">Masukkan nama</string>
+    <string name="add_story">Tambah cerita</string>
+    <string name="there_s_no_story">Tidak ada cerita!</string>
+    <string name="description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="log_out">Keluar</string>
+    <string name="app_widget_description">Ini adalah widget deskripsi</string>
+    <string name="story">Cerita</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="story_uploaded">Cerita sukses diunggah!</string>
+    <string name="no_permission">Tidak mendapatkan izin!</string>
+    <string name="try_again">Terdapat masalah, mohon coba lagi!</string>
+    <string name="required_desc">Tambah deskripsi!</string>
+    <string name="required_pic">Tambah Foto!</string>
+    <string name="failed_camera">Gagal memuat kamera!</string>
+    <string name="failed_picture">Gagal memuat galeri</string>
+    <string name="welcome">Selamat Datang, </string>
+    <string name="please_login">Mohon Login!</string>
+    <string name="list_updated">List diperbarui!</string>
+    <string name="logout">Anda telah keluar!</string>
+    <string name="manually_login">Berhasil mendaftar. Tolong login!</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="language">Bahasa</string>
+    <string name="take_a_picture">Ambil gambar</string>
+    <string name="switch_camera">Balik kamera</string>
+    <string name="photo_description">deskripsi foto</string>
+    <string name="icon_login">ikon login</string>
+    <string name="icon_register">ikon register</string>
+    <string name="app_logo">logo aplikasi</string>
+    <string name="photo_story">Foto Cerita</string>
+    <string name="refresh">Perbarui</string>
+    <string name="widget_photo">Foto widget</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="location">Lokasi</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="save_my_current_location">Simpan Lokasi Saya Saat ini</string>
+    <string name="story_map">Peta Cerita</string>
+
+</resources>
